@@ -1,5 +1,5 @@
-# Estafa de LinkIn
-LinkIn es una red social profesiona utilizada para buscar: empleados, buscar trabajo o contactar empresas. Los reclutadores reales usan LinkIn todos los días, por eso es un canal ideal para engañar: 
+# Estafa de LinkedIn
+LinkedIn es una red social profesiona utilizada para buscar: empleados, buscar trabajo o contactar empresas. Los reclutadores reales usan LinkedIn todos los días, por eso es un canal ideal para engañar: 
 
 #### recibir mensajes ahí no parece sospechoso.
 #
