@@ -3,7 +3,7 @@ LinkedIn es una red social profesiona utilizada para buscar: empleados, buscar t
 
 #### recibir mensajes ahí no parece sospechoso.
 #
-<img width="250" height="486" alt="imagen" src="https://github.com/user-attachments/assets/a535b3ee-6d4c-4a21-9bf8-ce64fb68c623" /> <img width="712" height="256" alt="imagen" src="https://github.com/user-attachments/assets/7dd7cd4a-985e-4d68-a950-9146ac562a98" /> 
+<img width="250" height="486" alt="imagen" src="https://github.com/user-attachments/assets/a535b3ee-6d4c-4a21-9bf8-ce64fb68c623" /> <img width="612" height="256" alt="imagen" src="https://github.com/user-attachments/assets/7dd7cd4a-985e-4d68-a950-9146ac562a98" /> 
 
 #
 La estafa consiste en que te llega una invitación real de LinkedIn para una entrevista de trabajo, y al aceptar la entrevista el estafador te escribe y se hace pasar por un reclutador legítimo y te envía un documento de una supuesta prueba técnica.
