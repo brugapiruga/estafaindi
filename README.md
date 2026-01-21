@@ -38,4 +38,5 @@ En LinkedIn también operan estafadores que se aprovechan de empleados recién i
 > Mejor perder 5 minutos verificando que perder dinero.
 ## Noticias
 https://www.bitdefender.com/es-es/blog/hotforsecurity/linkedin-amplia-la-verificacion-para-frenar-estafas-de-reclutamiento?utm_source=chatgpt.com
+#
 https://www.aarp.org/espanol/dinero/estafas-y-fraudes/info-2015/estafa-reclutador-linkedin-ofertas-de-empleo.html?utm_source=chatgpt.com
